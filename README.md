@@ -38,7 +38,7 @@ ToDoApp is a full-stack application designed to manage tasks efficiently. The pr
 - MySQL database
 ### Backend Setup
 ### Clone the repository:
-- git clone https://github.com/yourusername/ToDoApp.git
+- git clone https://github.com/bambovijs/ToDoApp.git
 - cd ToDoApp
 - Configure the database in src/main/resources/application.properties.
 ### Build and run the backend:
